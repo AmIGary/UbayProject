@@ -9,10 +9,29 @@
 </head>
 <body>
     <form id="form1" runat="server">
-        <div>
-            <p>
-                Main Page
-            </p>
+        <div class="Top_bg">
+            <div class="Top_wrapper">
+                <div>
+                    1
+                </div>
+                <div>
+                    2
+                </div>
+                <div>
+                    3
+                </div>
+            </div>
+        </div>
+        <div class="body">
+            <div>
+                1
+            </div>
+            <div>
+                2
+            </div>
+            <div>
+                3
+            </div>
         </div>
     </form>
 </body>
